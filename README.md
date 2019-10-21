@@ -1,6 +1,6 @@
 # hospital_comparison_tool
 
-## MCIT Project Proposal
+## MCIT 591 Project Proposal
 
 1. Question (could be multiple) that we are trying to answer - What
 
